@@ -5,7 +5,6 @@ import com.fasterxml.jackson.databind.ObjectMapper;
 import Model.Account;
 import Model.Message;
 import Service.AccountService;
-import Service.ServiceException;
 import Service.MessageService;
 import io.javalin.Javalin;
 import io.javalin.http.Context;
