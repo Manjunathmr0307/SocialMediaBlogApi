@@ -9,6 +9,7 @@ import Model.Message;
 import Util.ConnectionUtil;
 
 public class MessageDao implements BaseDao<Message>
+
 {
   private static final Logger LOGGER=LoggerFactory.getLogger(MessageDao.class);
 
